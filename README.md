@@ -1,7 +1,7 @@
 - Java 核心技术面试必知
 
 
-  - [第01讲  谈谈你对Java平台的理解？](https://www.pianshen.com/article/2496684390/)
+  - [第01讲  谈谈你对Java平台的理解？](https://blog.csdn.net/u013015065/article/details/80227892)
   - [第02讲  Exception和Error有什么区别？](https://www.jianshu.com/p/ea1f1ed1c7ef)
   - [第03讲  谈谈final、finally、 finalize有什么不同？](https://www.jianshu.com/p/f6d86793e055)
   - [第04讲  强引用、软引用、弱引用、幻象引用有什么区别？](https://blog.csdn.net/sxj159753/article/details/87123630)
