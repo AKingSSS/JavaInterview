@@ -1,6 +1,10 @@
-Redis 面试
+# Redis 面试
 - [阿里 redis 规范](https://www.sohu.com/a/323025665_120104204)
-- [redis分布式锁](https://blog.csdn.net/belongtocode/article/details/102511520)
+- [redis分布式锁:锁的过期时间小于业务的执行时间该如何续期](https://blog.csdn.net/belongtocode/article/details/102511520)
+- [redis分布式锁](https://mp.weixin.qq.com/s/gOYWLg3xYt4OhS46woN_Lg)
+- [敖丙-redis分布式锁](https://mp.weixin.qq.com/s/Z_xriP-jc2Bnmdcm0l5xzg)
+- [redis 分布式锁视频](https://www.zhihu.com/question/300767410?sort=created)
+- [为什么分布式要有分布式锁！](https://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247486626&idx=1&sn=f8b410dd4d406bdc68c0a063d48b78a3&chksm=e9c5f513deb27c05fc4962b01fea54310dd93447fe7cc260c31eb10ac4e9a0b72f0b61f79820&mpshare=1&scene=1&srcid=1226l2EumUEdJYFH53SJx1S2&sharer_sharetime=1577328331241&sharer_shareid=1cbff4bc02071eab4c6b044454488c83#rd)
 - [redis 数据结构-- sds](https://blog.csdn.net/qq193423571/article/details/81637075)
 - [redis 数据结构-- 跳跃表](https://blog.csdn.net/qq193423571/article/details/81637075)
 - [redis 数据结构-- 极客时间-跳跃表](https://blog.csdn.net/qq_38635681/article/details/100096762)
@@ -12,3 +16,6 @@ Redis 面试
 - [如何处理 redis 集群中 hot key 和 big key?](https://juejin.im/post/5c19be51f265da615c593351)
 - [redis 中 save 和 bgsave 区别 ](https://www.cnblogs.com/drizzlewithwind/p/6486915.html)
 - [高性能秒杀系统的设计思考，超详细！](https://juejin.im/post/5dd36550e51d4561ce028828)
+
+# Redis 实战
+- [Redis cluster 集群搭建]()
